@@ -1,0 +1,5 @@
+amr,abdelsamee, 9/12/2000, 1st smouha, 1007091598, amr_you@yahoo.com
+samer,kimo, 12/12/1212, street 13, 2007091598, sami@yahoo.com
+karim,samer, 5/10/2009, abokeer, 3007091598, karim@yahoo.com
+sameh,samer, 12/5/2004, mohrm, 40091598, sameh@yahoo.com
+amera,samer, 5/12/2005, toson, 50091598, amera@yahoo.com
